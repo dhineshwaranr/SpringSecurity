@@ -1,0 +1,1 @@
+INSERT INTO `user` VALUES (1,'ACTIVE','admin@admin.com','admin','admin','admin');
